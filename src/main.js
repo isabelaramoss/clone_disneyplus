@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function(){
   }
 
   for(let i = 0; i < questions.length; i++){
-    questions[i].add.addEventListener('click', abreOuFechaResposta);
+    questions[i].addEventListener('click', abreOuFechaResposta);
   }
 })
 
