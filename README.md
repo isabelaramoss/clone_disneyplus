@@ -1,0 +1,33 @@
+## Descrição do conteúdo do módulo
+Durante este módulo, nós:
+- compreendemos a estrutura do projeto;
+- configuramos um ambiente de desenvolvimento;
+- inicializamos o controle de versão e colaboração;
+- compreendemos a estrutura de um componente HTML;
+- dominamos o uso de classes e estilos CSS;
+- praticamos a criação de seletores CSS avançados;
+- compreendemos como importar fontes externas em um projeto web;
+- praticamos o uso do controle de versão com o Git;
+- aprendemos a criar uma seção de atrações em um site;
+- desenvolvemos habilidades de manipulação de eventos em JavaScript;
+- praticamos estilização CSS para destacar a aba ativa;
+- criamos uma seção de listagem de planos em um site;
+- estilizamos elementos de acordo com as diretrizes de design;
+- utilizamos seletores CSS e classes;
+- criamos uma seção de conteúdo com imagem e texto;
+- aplicamos estilos CSS para formatar a seção;
+- reestruturamos uma seção de conteúdo com imagem e lista;
+- aplicamos estilos CSS para formatar a seção;
+- resolvemos problemas de alinhamento e vazamento de conteúdo;
+- compreendemos a estrutura e os componentes de uma seção de perguntas frequentes (FAQ);
+- aprendemos a aplicar transições CSS para melhorar a experiência do usuário;
+- praticamos a criação de componentes reutilizáveis;
+- compreendemos a estrutura e os elementos de um rodapé web;
+- aprendemos a estilizar elementos de um rodapé com CSS;
+- praticamos o uso de variáveis CSS para gerenciar estilos;
+- compreendemos a estrutura HTML e CSS do cabeçalho;
+- aplicamos técnicas de responsividade;
+- implementamos comportamentos interativos;
+- compreendemos a importância da responsividade em design web;
+- aprendemos a aplicar estilos responsivos usando CSS;
+- praticamos habilidades de deploy de um projeto web.
